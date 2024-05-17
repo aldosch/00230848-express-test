@@ -2,7 +2,7 @@
 
 This is an example express app which can be deployed to Vercel
 
-## Steps
+## Installation and deployment
 
 1. Clone and install
 
@@ -17,6 +17,8 @@ pnpm i
 ```
 vercel dev
 ```
+
+Visit http://localhost:3000 or http://localhost:3000/custom
 
 3. Deploy
 
